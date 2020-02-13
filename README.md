@@ -1,2 +1,0 @@
-# WorkoutBackup
-Created with CodeSandbox
